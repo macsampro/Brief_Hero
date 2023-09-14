@@ -63,3 +63,4 @@ Installation of dev dependencies :
 npm i -D typescript @types/express ts-node nodemon
 ```
 # Hero_bdd
+# Brief_Hero
